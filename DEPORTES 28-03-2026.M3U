@@ -1,37 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Futbol",SANTOSVSQUERETARO
-https://ewvz.fubo18.com/espn2mx/mono.m3u8?token=ad9e8afe9a66f4969d742277f92abd631e7d4987-40-1792300950-1792282950
+#EXTINF:-1 group-title="Futbol",PACHUCA VS CRUZ AZUL
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/worucjnctz/out/v1/20ac5ecdc9b848dc92e7f1188bdf6ff6/cenc.mpd
 
-
-#EXTINF:-2 group-title="Futbol", CHIVASVSTIGRES
-https://c2f2zq.fubo18.com/universo/mono.m3u8?token=6c31e1bd32632217654d7d800d5459617614ce5f-53-1792301075-1792283075
-
-#EXTINF:-3 group-title="Futbol", LEONVSAMERICA
-https://ewvz.fubo18.com/tudn/mono.m3u8?token=3a943a714fede2c52e1c84198a4e1d4c4fc0cfb4-4c-1792301145-1792283145
-
-#EXTINF:-4 group-title="Futbol", LEONVSAMERICA 2
-https://cdn-calisports-pri-01.vos360.video/Content/LiveEvent/ae45873a-8ead-4209-9653-f8eed60cf15c/DASH/master.mpd
-
-#EXTINF:-4 group-title="Futbol", TOLUCAVSSANLUIS
-https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd
-
-#EXTINF:-4 group-title="Futbol", TOLUCAVSSANLUIS 2
-https://bmf0aw9u.fubo18.com/tudn_mx/mono.m3u8?token=b90f5e7f717021e0d934851bade4d4f791699a12-b8-1792301273-1792283273
-
-#EXTINF:-4 group-title="Futbol", CRUZAZULVSJUAREZ
-https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd
-
-#EXTINF:-4 group-title="UFC", Joaquin Buckley vs. Mike Malott
-https://98.envivosenhd.beer/paramount1/tracks-v1a1/mono.m3u8?ip=189.239.217.115&token=9aaa31d3a6ff40f8356dcd7c4355a20fa2d05c74-57-1792329312-1792275312
-
-#EXTINF:-4 group-title="UFC", Joaquin Buckley vs. Mike Malott 2
-https://fala.futlivehd.com/paramount3/tracks-v1a1/mono.m3u8?ip=189.239.217.115&token=c1932ebeca259f3023abc952e0b017fd0a7fb190-4a-1792329338-1792275338
-
-#EXTINF:-4 group-title="UFC", Joaquin Buckley vs. Mike Malott 3
-https://98.envivosenhd.beer/paramount3/tracks-v1a1/mono.m3u8?ip=189.239.217.115&token=337fc9a88156f62fe1ba92eb254b8d8e1136117e-49-1792329355-1792275355
-
-
-
-
-
+#EXTINF:-2 group-title="Futbol", PACHUCA VS CRUZ AZUL
