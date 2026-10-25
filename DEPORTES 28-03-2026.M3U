@@ -1,6 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Futbol",PACHUCA VS CRUZ AZUL
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/worucjnctz/out/v1/20ac5ecdc9b848dc92e7f1188bdf6ff6/cenc.mpd
+#EXTINF:-1 group-title="Futbol",box
+https://85.domhsd.com/espn/tracks-v1a1/mono.m3u8?ip=189.239.216.24&token=13b4786e0ecc7566c27f055aa8971fd68f7ff484-fb-1792942169-1792888169
 
-#EXTINF:-2 group-title="Futbol", PACHUCA VS CRUZ AZUL
