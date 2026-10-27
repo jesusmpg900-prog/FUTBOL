@@ -1,5 +1,18 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Futbol",box
-https://85.domhsd.com/espn/tracks-v1a1/mono.m3u8?ip=189.239.216.24&token=13b4786e0ecc7566c27f055aa8971fd68f7ff484-fb-1792942169-1792888169
+#EXTINF:-1 group-title="PELICULAS",LA ODISEA 2026
+https://s1.savefiles.com/hls2/01/00499/n4au3712pgky_n/index-v1-a1.m3u8?t=kjzVmM0NJOKjQX2Wh-JzJXhvn8amvVBLKchY7opNZfA&s=1793131945&e=43200&v=236656&i=0.0&sp=0
+#EXTINF:-2 group-title="PELICULAS",EL PODER DE LA RED 2026
+https://ugc-cdn-caching-n3dbxkl0bbryijbmhg.cloudwindow-route.com/engine/hls2-c/01/18481/d5ypvoouz49h_,n,.urlset/index-v1-a1.m3u8?t=m7Z7XO9PCICx9YnBuaxq3wvxBfqvBhACIkb9hzqznvc&s=1793132124&e=14400&f=92406477&node=JTr/LA1s08nAE0efOEFkGivZfDJWIm6DEFF9EuwV0oc=&i=189.239&sp=2500&asn=8151&q=n&rq=jowDaSLm6H140HhPXEw9OSJq13bL7IfAKbsdGI0K
+#EXTINF:-3 group-title="PELICULAS", Loco México Mágico 2026
+https://s4.savefiles.com/hls2/01/00499/shxo5gqi5jhm_n/index-v1-a1.m3u8?t=fHUXh2ymmOA6Q6kXysRDZErRx4P4xY9ryoc7GHJg5G8&s=1793132271&e=43200&v=239139&i=0.0&sp=0
+#EXTINF:-4 group-title="PELICULAS", Clayface 2026
+https://s1.savefiles.com/hls2/01/00519/s5p8p4um0dey_n/index-v1-a1.m3u8?t=WYEFLCEjf_W2N1uvRUGudVLSDqxv9vLfuDCNoTaVRvU&s=1793132332&e=43200&v=239505&i=0.0&sp=0
+#EXTINF:-5 group-title="PELICULAS", Heart of the Beast 2026
+https://s1.savefiles.com/hls2/01/00480/ahml8u2dx5lk_n/index-v1-a1.m3u8?t=cifpZTc5qpopCwb08PldrdcJoE5qfgq9z_iOcS0yK-Y&s=1793132400&e=43200&v=239970&i=0.0&sp=0
+#EXTINF:-6 group-title="PELICULAS",LA BOLA NEGRA 2026
+https://edge1-frankfurt-sprintcdn.owphbf24.com/hls2/04/12332/hsb2fv5ly472_x/index-v1-a1.m3u8?t=DDjF2CuOhOYXDSnjgZueb7GjBhBBva5kpz2X6Jx5OoU&s=1793132527&e=10800&f=61660778&srv=1060&asn=8151&sp=5500&p=0
+#EXTINF:-6 group-title="PELICULAS",Resident Evil: Noche cero 2026
+
+
 
