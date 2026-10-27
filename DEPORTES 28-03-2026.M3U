@@ -14,10 +14,12 @@ https://s1.savefiles.com/hls2/01/00480/ahml8u2dx5lk_n/index-v1-a1.m3u8?t=cifpZTc
 https://edge1-frankfurt-sprintcdn.owphbf24.com/hls2/04/12332/hsb2fv5ly472_x/index-v1-a1.m3u8?t=DDjF2CuOhOYXDSnjgZueb7GjBhBBva5kpz2X6Jx5OoU&s=1793132527&e=10800&f=61660778&srv=1060&asn=8151&sp=5500&p=0
 #EXTINF:-7 group-title="PELICULAS",Resident Evil: Noche cero 2026
 https://1cloudfile.com/1w8k2#
-#EXTINF:-7 group-title="PELICULAS",DIGGER 2026
+#EXTINF:-8 group-title="PELICULAS",DIGGER 2026
 https://s4.savefiles.com/hls2/01/00483/jiscxdhwfbao_n/index-v1-a1.m3u8?t=rvr3sllSRw3ANdcym1cxnJESX_MBKnDZqI5e_NuydzQ&s=1793133165&e=43200&v=245032&i=0.0&sp=0
-#EXTINF:-7 group-title="PELICULAS",PRIMETIME 2026
+#EXTINF:-9 group-title="PELICULAS",PRIMETIME 2026
 https://s1.savefiles.com/hls2/01/00483/2bqqo36nl3sb_n/index-v1-a1.m3u8?t=xHQduhnAlHwbFrELsEKpHMhW3SprJcQ3WMDgKQWVJSA&s=1793133241&e=43200&v=245854&i=0.0&sp=0
+#EXTINF:-10 group-title="PELICULAS",Sense and Sensibility 2026
+https://s1.savefiles.com/hls2/01/00524/wnolosb3fh81_n/index-v1-a1.m3u8?t=Q2ohJOkQmsZay33DQg66pwnSw-RkEsGXC4BGamw9UfI&s=1793133327&e=43200&v=246368&i=0.0&sp=0
 
 
 
